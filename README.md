@@ -32,3 +32,9 @@
     <img src="https://skillicons.dev/icons?i=azure,docker,figma,github,gitlab,nginx,postman,visualstudio,vscode,xd" />
   </a>
 </p>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xhesidigital&" alt="xhesidigital" /></p>
+</div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhesidigital" alt="xhesidigital" /></a> </p>

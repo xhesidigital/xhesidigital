@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h4 align="center">I am Xhesi, with 8 years of full-stack development experience. My areas of interest are:<br/>
+<h4 align="center">I am Xhesi, with 8 years of full-stack development experience. <br/></h4>
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Mobile</h3>
 <p align="left">

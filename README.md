@@ -7,13 +7,13 @@ A highly experienced Full Stack Developer with a proven track record of excellen
 <h3 align="left">Mobile</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin,java" />
+    <img src="https://skillicons.dev/icons?i=react,kotlin" />
   </a>
 </p>
 <h3 align="left">Backend</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,express,flask,laravel,nextjs,nestjs,nodejs,php,py,symfony,wordpress,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=laravel,nextjs,nestjs,nodejs,php,py,symfony,django" />
   </a>
 </p>
 <h3 align="left">Front-end</h3>
